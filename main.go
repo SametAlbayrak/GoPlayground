@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	//Getenv examples
+	//Getenv os environment examples
 	uName := os.Getenv("USER")
 	uDomain := os.Getenv("USERDOMAIN")
 	processorArchitecture := os.Getenv("PROCESSOR_ARCHITECTURE")
