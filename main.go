@@ -21,4 +21,5 @@ func main() {
 	fmt.Println(goRootPAth)
 	fmt.Println(goPath)
 	fmt.Println(homePath)
+
 }
